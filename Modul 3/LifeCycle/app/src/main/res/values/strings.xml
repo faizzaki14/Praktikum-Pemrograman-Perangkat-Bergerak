@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="lbl_name">Nama Mahasiswa</string>
+    <string name="my_name">Faiz Zaki Ramadhan</string>
+    <string name="lbl_nim">Nim Mahasiswa</string>
+    <string name="my_nim">19104075</string>
+</resources>
