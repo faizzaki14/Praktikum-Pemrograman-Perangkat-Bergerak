@@ -1,2 +1,0 @@
-com/faizzakiramadhan_19104075/helloworld/BuildConfig.java
- com.faizzakiramadhan_19104075.helloworld.BuildConfig

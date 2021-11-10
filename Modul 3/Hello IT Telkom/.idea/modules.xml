@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hello_IT_Telkom.iml" filepath="$PROJECT_DIR$/.idea/modules/Hello_IT_Telkom.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello_IT_Telkom.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello_IT_Telkom.app.iml" />
-    </modules>
-  </component>
-</project>
