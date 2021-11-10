@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice5Activity</string>
+    <string name="btn_prodi">Bawa Data Prodi</string>
+    <string name="input_phone_number">input_phone_number</string>
+    <string name="btn_call_camera">btn_call_camera</string>
+    <string name="btn_call_browser">btn_call_browser</string>
+    <string name="btn_call_phone">btn_call_phone</string>
+</resources>

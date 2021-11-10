@@ -1,0 +1,2 @@
+com/faizzakiramadhan_19104075/helloittelkom/BuildConfig.java
+ com.faizzakiramadhan_19104075.helloittelkom.BuildConfig
